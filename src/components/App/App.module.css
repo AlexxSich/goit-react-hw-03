@@ -1,7 +1,3 @@
-#root {
-  display: flex;
-}
-
 /* Reset styles */
 h1,
 h2,
@@ -36,10 +32,4 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
 }
